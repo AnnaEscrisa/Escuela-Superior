@@ -1,0 +1,45 @@
+html{
+position: unset !important;
+}
+
+
+html, body {
+background-color: 89919c !important; 
+
+}
+
+
+
+.button{
+    background-color: #ff6700; 
+    color: #FFF;
+}
+
+.form-group{
+    color:white
+}
+::placeholder {
+    color: white
+}
+
+
+.signup-form {
+
+    width: 1200px;
+    margin: 100 700;
+}
+
+
+.login-form{
+    
+    width: 1200px;
+    margin: 100 700;
+}
+
+
+
+
+.card-header, .d-flex, .link-card {
+    color: white;
+}
+

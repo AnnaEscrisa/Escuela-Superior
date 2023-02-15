@@ -31,9 +31,9 @@ Route::get('/Contacto', [RouteController::class, 'Contacto']);
 //Sobre-Nosotros
 Route::prefix('/Sobrenosotros')->group(function () {
     Route::controller(RouteController::class)->group(function () {
-        Route::get('/Historia', 'SN_Historia');
-        Route::get('/Mapa', 'SN_Mapa');
-        Route::get('/Profesorado', 'SN_Prof');
+        Route::get('/Historia', 'sn_historia');
+        Route::get('/Mapa', 'sn_mapa');
+        Route::get('/Profesorado', 'sn_prof');
     });
 });
 

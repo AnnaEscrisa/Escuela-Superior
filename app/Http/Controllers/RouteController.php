@@ -41,12 +41,12 @@ class RouteController extends Controller
     public function SN_Mapa()
     {
         
-        return view('sn_Mapa', ['Ruta' => 'Mapa']);
+        return view('sn_map', ['Ruta' => 'Mapa']);
     }
 
     public function SN_Prof()
     {
-        return view('sn_prof', [
+        return view('SN_prof', [
             'profesores' => Profesor::all(),
             'Ruta' => 'Profesores'
         ]);

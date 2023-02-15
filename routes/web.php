@@ -33,7 +33,7 @@ Route::prefix('/Sobrenosotros')->group(function () {
     Route::controller(RouteController::class)->group(function () {
         Route::get('/Historia', 'sn_historia');
         Route::get('/Mapa', 'sn_map');
-        Route::get('/Profesorado', 'sn_prof');
+        Route::get('/Profesorado', 'SN_prof');
     });
 });
 

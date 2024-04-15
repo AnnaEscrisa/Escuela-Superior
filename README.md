@@ -1,7 +1,7 @@
 
 ## Sobre el proyecto
 
-Proyecto creado para el curso Open Source Back-End Web Developer (2022). 
+Proyecto creado para el curso Open Source Back-End Web Developer (2022), disponible en : https://escuela-superior-demo.000webhostapp.com/
 
 "Escuela Superior" es una aplicación web para una escuela ficticia que permite:
 - navegación entre diversas páginas

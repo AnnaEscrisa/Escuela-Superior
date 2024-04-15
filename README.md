@@ -4,24 +4,24 @@
 Proyecto creado para el curso Open Source Back-End Web Developer (2022). 
 
 "Escuela Superior" es una aplicación web para una escuela ficticia que permite:
-	- navegación entre diversas páginas
-	- registro de nuevos usuarios
-	- inicio/cierre de sesión
-	- publicación de comentarios en la sección ¨noticias¨
+- navegación entre diversas páginas
+- registro de nuevos usuarios
+- inicio/cierre de sesión
+- publicación de comentarios en la sección ¨noticias¨
 
 
 ## Tecnologías y lenguajes
 
 Back-End
-	-Laravel
-	-PHP
-	-MySQL
+- Laravel
+- PHP
+- MySQL
 
 Front-End
-	-HTML
-	-CSS
-	-JavaScript
-	-Bootstrap
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
 
 ## Funcionamiento
